@@ -1,0 +1,24 @@
+Complexity Analysis -> Time/Space Complexity
+-What is Time Complexity
+-Theoretical Analysis
+-Big O notation - Iterative Linear
+-Theoretical Analysis - Iterative Non Linear
+
+*TIP  1 - If an algorithm is taking O(n^2) time, you should do some operation of less than O(n^2), and then perform the same operation of O(n^2) 
+       time, time complexity will reduce
+     Example - In finding Intersection of two array instead of using O(mn) operation, we can first sort the two arrays using merge/quick sort
+             - This will reduce the previous number of operations from O(mn) to O(n) or O(m), hence overall time complexity will be 
+               O(nlogn + mlogm);
+
+      2- While finding intersection of two arrays instead of using the above algorithm, we can sort the smaller array using merge/quick sort, 
+         and for every element of larger array we can perform binary search on smaller sorted array
+         Time Complexity - from O(mn) to O(nlogn + mlogm)
+                                             |       |
+                                     for searching  for binary search of m element
+
+-Find Unique Element
+-Duplicate in array
+-Pair sum in array
+-Triplet Sum
+-Rotate Array
+                                             

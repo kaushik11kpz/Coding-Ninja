@@ -1,0 +1,16 @@
+#TIP-1
+-Returning in a problem and printing in a problem is quite different
+-keep in mind you cannot return the value of a smaller output to the larger output
+-To tackle this problem you can keep an argument in the function which always carries itself with the value of smaller output
+-Use this argument to perform operations and again pass the updated value of the argument for next bigger output
+Ex- printing a factorial instead of returning
+#TIP-2
+-If we print questions like subsequences which do not contains singular calculation but multiple choices for getting smaller output,
+we need to carry a argument of stringSoFar, which will just contain the currently passed subsequence and when any base case arrives,
+it prints that stringSoFar subsequence
+-We need to call the function mutiple times depending upon the choices we need to take to get the smaller output
+Ex- In subsequence question - To calculate subsequence, we have two choices, either to take the current charater or ignore it
+  - These two choices will lead to calling of function two times with one calling taking current charater and other ignoring the 
+    current character
+#TIP-3
+-Remember -> returning = bottom-up while printing = top down

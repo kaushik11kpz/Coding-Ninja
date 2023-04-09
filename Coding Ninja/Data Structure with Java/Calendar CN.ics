@@ -1,0 +1,1155 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Coding Ninjas//Learner Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Coding Ninjas - Standard | Basics of Java with Data Structures
+  and Algorithms | English | 11 Jul'22
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:f1b4840f-27b4-4f63-8d2f-1986067527d0
+DTSTART:20220724T172959
+DTEND:20220724T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376600?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - OOPS - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376600?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376600?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376600?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:7bd3e8e0-92ab-4961-8541-fb2c872ce7b6
+DTSTART:20220724T172959
+DTEND:20220724T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376601?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - OOPS - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376601?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376601?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376601?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:5dcef0e2-aa97-4277-aa7d-78bff32f775a
+DTSTART:20220731T172959
+DTEND:20220731T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376602?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Recursion - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376602?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376602?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376602?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:b2bf9b73-3653-47bb-8233-1a86a877d9d8
+DTSTART:20220731T172959
+DTEND:20220731T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376603?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Recursion - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376603?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376603?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376603?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:398ebb5e-9c1a-45bf-a561-9424eb8a9638
+DTSTART:20220731T172959
+DTEND:20220731T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376604?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Recursion Assignment
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376604?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion Assignment: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376604?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion Assignment: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376604?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion Assignment: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:1657cf35-849e-4fbd-b6f3-e3e10f97c937
+DTSTART:20220807T172959
+DTEND:20220807T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376605?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Time Complexity
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376605?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Time Complexity: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376605?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Time Complexity: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376605?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Time Complexity: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:03712dea-5a37-44da-9c6d-c4319f92f334
+DTSTART:20220807T172959
+DTEND:20220807T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376606?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Time And Space Complexity
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376606?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Time And Space Complexity: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376606?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Time And Space Complexity: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376606?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Time And Space Complexity: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:3b40a413-51f8-4bb5-971c-fcd8edddbd5a
+DTSTART:20220807T172959
+DTEND:20220807T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376607?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Test 1
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376607?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 1: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376607?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 1: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376607?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 1: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:ccf61e94-5335-4c87-bf36-280292e22c5a
+DTSTART:20220814T172959
+DTEND:20220814T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376608?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - OOPS-3 
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376608?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS-3 : Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376608?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS-3 : Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376608?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS-3 : Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:b692d0a0-fe06-41f7-820a-37fb9f82111b
+DTSTART:20220814T172959
+DTEND:20220814T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376609?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Linked List - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376609?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Linked List - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376609?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Linked List - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376609?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Linked List - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:b668ce87-bb44-4394-bf86-21702a4a3db4
+DTSTART:20220814T172959
+DTEND:20220814T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376610?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Linked List - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376610?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Linked List - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376610?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Linked List - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376610?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Linked List - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:d419d6bc-2e17-4e33-8dd3-f7be76a2717b
+DTSTART:20220821T172959
+DTEND:20220821T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376611?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Stacks
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376611?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Stacks: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376611?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Stacks: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376611?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Stacks: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:cb84df7f-e25f-46e9-b3e1-ada5005d0a6b
+DTSTART:20220821T172959
+DTEND:20220821T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376612?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Queues
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376612?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Queues: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376612?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Queues: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376612?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Queues: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:7b6c931f-8ebd-40e0-9815-193647db0632
+DTSTART:20220828T172959
+DTEND:20220828T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376613?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Test 2
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376613?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 2: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376613?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 2: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376613?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 2: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:8c8d3fa5-25d3-4d47-8241-d04b388aeecf
+DTSTART:20220904T172959
+DTEND:20220904T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376614?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Binary Trees - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376614?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Binary Trees - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376614?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Binary Trees - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376614?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Binary Trees - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:4e25de01-a7e7-4d1d-9fb7-f06fa367c8cc
+DTSTART:20220904T172959
+DTEND:20220904T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376615?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Binary Trees - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376615?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Binary Trees - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376615?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Binary Trees - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376615?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Binary Trees - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:8a28d742-a787-425c-8972-12d8755720ab
+DTSTART:20220911T172959
+DTEND:20220911T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376616?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - BST - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376616?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:BST - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376616?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:BST - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376616?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:BST - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:221bc53b-372b-472a-a60c-01b9945dca03
+DTSTART:20220911T172959
+DTEND:20220911T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376617?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - BST - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376617?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:BST - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376617?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:BST - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376617?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:BST - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:d81d3527-9177-42e9-9589-35c5d8321839
+DTSTART:20220911T172959
+DTEND:20220911T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376618?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Trees
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376618?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Trees: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376618?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Trees: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376618?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Trees: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:6448bf24-48b7-48d0-948b-8c5ea908bd07
+DTSTART:20220918T172959
+DTEND:20220918T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376619?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Test 3
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376619?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 3: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376619?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 3: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376619?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Test 3: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:5b2712f1-4aea-48f4-a939-37ce0f3e9c2a
+DTSTART:20220918T172959
+DTEND:20220918T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376620?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Hashmaps
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376620?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Hashmaps: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376620?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Hashmaps: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376620?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Hashmaps: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:1cb6986b-0d7a-4603-afd1-01a019e47b16
+DTSTART:20220925T172959
+DTEND:20220925T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376621?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Priority Queues - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376621?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Priority Queues - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376621?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Priority Queues - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376621?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Priority Queues - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:84751a7a-da2c-4cf8-8442-e42c553c846f
+DTSTART:20221002T172959
+DTEND:20221002T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376622?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Priority Queues - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376622?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Priority Queues - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376622?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Priority Queues - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376622?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Priority Queues - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:418daaf7-96d6-4d32-927a-0bf88707e0b2
+DTSTART:20221002T172959
+DTEND:20221002T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376623?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Tries and Huffman Coding
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376623?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Tries and Huffman Coding: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376623?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Tries and Huffman Coding: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376623?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Tries and Huffman Coding: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:ceb03a5a-90c4-4d9b-9206-b81ce2c325c9
+DTSTART:20221002T172959
+DTEND:20221002T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376624?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Recursion - 3 
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376624?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - 3 : Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376624?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - 3 : Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376624?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Recursion - 3 : Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:bbf8109f-44ff-46af-a4a3-b1976409eed7
+DTSTART:20221009T172959
+DTEND:20221009T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376625?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Backtracking
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376625?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Backtracking: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376625?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Backtracking: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376625?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Backtracking: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:96a5663a-a15d-43c8-9730-fbf0dd7cfaec
+DTSTART:20221016T172959
+DTEND:20221016T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376626?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Dynamic Programming - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376626?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Dynamic Programming - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376626?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Dynamic Programming - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376626?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Dynamic Programming - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:12f953ad-d8fd-479d-ab62-b5088ca36b0a
+DTSTART:20221016T172959
+DTEND:20221016T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376627?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Dynamic Programming - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376627?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Dynamic Programming - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376627?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Dynamic Programming - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376627?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Dynamic Programming - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:1be9b232-8869-4bc3-8ab0-6382eb6d5fae
+DTSTART:20221016T172959
+DTEND:20221016T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376628?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - OOPS - 4
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376628?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - 4: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376628?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - 4: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376628?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:OOPS - 4: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:9ecccf79-7f6f-4d7f-8e24-2099fe0869cf
+DTSTART:20221023T172959
+DTEND:20221023T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376629?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Graphs - I
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376629?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Graphs - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376629?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Graphs - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376629?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Graphs - I: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220705T045326Z
+UID:056b25c6-f6bb-4368-80b9-cf8f46869b4a
+DTSTART:20221023T172959
+DTEND:20221023T175959
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376630?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Deadline Approaching - Graphs - II
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P5D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376630?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Graphs - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-P2D
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376630?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Graphs - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+TRIGGER:-PT14H
+DESCRIPTION:Score more to obtain your certificate\nhttps://classroom.coding
+ ninjas.com/app/classroom/me/18926/content/376630?utm_source=calendar&utm_m
+ edium=classroom_deadline_sync\n      
+SUMMARY:Graphs - II: Deadline Reminder
+ATTENDEE:mailto:kaushikkpz888@gmail.com
+END:VALARM
+END:VEVENT
+END:VCALENDAR

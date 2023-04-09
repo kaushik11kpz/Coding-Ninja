@@ -1,0 +1,41 @@
+Introduction to Recursion
+-In recursion, a function calls itself but with a smaller input value
+
+Recursion and PMI
+-Actual Math in recursion
+-Recursion is based on mathematical concept PMI(Principal of Mathematical Induction)
+-Example
+-To prove f is true for all natural number
+Task 1 - prove f(0) & f(1) is true
+Assume - f(k) is true
+Task 2 - prove f(k+1) is true
+
+Problem Solving through recursion
+-Task 1
+Find base case - Ex - 0!=1 , 1!=1
+-Task 2
+Induction hypothesis(Assumption) - Ex - Assume upto f(n-1), function will work
+-Task 3
+-Induction Step - Ex -  Find factoral of f(n) using f(n-1)
+
+
+Print First N natural numbers
+-
+
+Fibonacci Numbers
+--Task 1
+Find base case - Ex - 0!=1 , 1!=1
+-Task 2
+Induction hypothesis(Assumption) - Ex - Assume upto f(n-1) and <=f(n-1), function will work
+-For every input, two previous numbers solution is required
+-Task 3
+-Induction Step - Ex -  Find factoral of f(n) using f(n-1)
+
+
+Use recursion in problems related to array
+-Check if array is sorted
+-Sum of Array
+-Check number in Array
+-First Index of Number in Array
+-Last Index of number in Array
+-

@@ -1,0 +1,70 @@
+OOPS
+-Programming is understanding our surrounding and the way many real life entities(such as objects) behave around with each other
+-Class is a template/blueprint of an object
+-Class represents the property and the functionality an object have
+-The values of that properties and fucntionality is provided after object creation
+-object is san instance of a class
+-We talk can about a spceific object but class is general which specifies how an object should look like
+-We create object using new keyword
+-Student s1 = new Student();
+-where s1 is the refernece to the memory block where an object storeage is created which contains objects property inside heap
+-s1 is a refernce and is present in stack
+-The address of reference is in hexadecimal form
+-For all non primitive, default values are null and for primitive data types default value is 0,0.0 etc.
+
+Access Modifier
+-Access Modifier controls to access to the properties and functionalities of the class
+-Private: Accessible only within the class
+-Default: Accessible within the same package
+-Public: Accessible within entire Project
+
+Getters and Setter
+-Since a property is marked as private, it cannot be accessed directly outside the class
+-Nut functionality inside the class can access that private property
+-Thus, we take the help of functionalities of that class to access the private property indirectly
+-This is called Getters and Setters
+-Since, we are providing access to private property anyway, why getters and setters are needed?
+-This are needed as these are considered better choice as we can logically control what should be given(parameter) to get setter or 
+getter, which will only yield output as we desire
+-Thus, our control on the input and output of the getters and setters is maintained, which in turn let us choose the values of
+private properties
+-checks on values can be easily done via getters and setters
+
+this keyword
+-this is reference to current object
+-this keyword is an implicit value
+-this keyword holds the address of the object on which the setter is called
+-on whichever object the setter is called this keyword has the address of that object
+-this keyword can be used to differentiate the property of an object and local variable
+
+Constructors
+-Constructor is not a function but similar to function
+-it does not have return type
+-it is called when object is created
+-Only called once in the entire object lifetime
+-Example in Scanner(System.in) -> parameter System.in is passed as source from where sacnner is supposed to take input from
+-new Student() - This is default value constructor with empty values
+-It is used to set up some properties
+
+Final Keyword
+-final keyword before a property means, that property cannot be changed now
+-Either you can define the value at the time of declaration or you can define the value with constrcutor as constructor is called only once
+
+Static keyword
+-Static properties are the properties that are shared by all objects
+-All objects that are created will share the static property
+-static properties belong to class, not to object
+-We can access static variable without any object via class name
+
+Static Functions
+-
+
+
+Fraction class-1
+-Using simplify method
+-Adding one object with another without any return
+-Adding two objects objects and returning the value as another object(static function)
+
+Complex Number Class
+
+Polynomial Class

@@ -1,0 +1,8 @@
+-Tips
+1. TO FIND NEXT LARGER ELEMENT
+   -Use a resultNode, to keep check of the element in process,
+   -if(root.data > n){
+            if(resNode == null || root.data < resNode.data){
+                resNode = root;
+            }
+        }

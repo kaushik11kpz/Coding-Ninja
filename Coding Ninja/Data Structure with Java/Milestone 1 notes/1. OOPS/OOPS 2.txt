@@ -1,0 +1,89 @@
+Components of OOPS
+-Encapsulation - Wrapping up of data and functionalities together in a single class
+-Abstraction can be considered as part of Encapsulation as Abstarction basically means hiding the implementation details of a 
+particular method or class and is only accessible via some object. Ex- Implementation nextInt() method of Scanner class is not
+revealed to us, even though we use it whenever is it is required 
+-Inheritance - 
+-Polymorphism
+
+Writing code using Inheritance
+
+
+Inheritance and private members
+-When the proprty is private in Base Class, then we can add Getters and Setters in base class to provide access to subclasses
+-The private property is present is subclass, but it is not accessible for subclass
+
+
+Funtion Overriding
+-If function/method of same name is present in both Base class and Subclass, then the method of Subclass is executed as the object
+always first check the Subclass for the method, if not found,then it executes the method of inherited/base class
+-This is called Function Overriding
+
+Protect Modifiers
+-Protected - It is accessible within the package as well as with derived class
+
+Super Keyword
+-super refers to the base/parent class
+-we can call data members and functioanlities of base/parent class into subclass/derived class using super keyword
+
+Inheritance and Constructors
+-When the sublclass/derived class constructor is called, the base class constructor is automaticalled called and after that
+derived class constructor is called
+-Base class constructor is always called first
+-Once, we create construtor of our own choice i.e parametrized constrctor, then the default constructor will automatically is
+removed and when we call for the constructor from the child class and error will show, to remove it, we have to call the 
+base parameterized constructor inside the child constructor by passing the parametes in the super keyword
+-The call to super constructor should be the first call in the child class
+
+Polymorphism
+-One thing that is taking multiple form
+-If you have a reference of base class that reference can refer to objects of derived classes
+-data and memebers of only base class is accessible using such references, accessing child class members will result compile time
+error
+-methods of child class is accessible to such references as from where functionality/methods are called is decided at runtime
+
+
+Class cast and Object Class
+-You can typecast a vehicle in as a Car
+-This id dangerous if not implemented properly as it may lead to ClasscastException at runtime
+-Object class is the super class of all the classes in java
+
+Exception handling - 1
+-Exception are events which stops the normal flow of program
+-These are 3 types
+1. Error
+2. Unchecked Exception - ArithmeticException, NullPointerException - logical errors
+3. Checked Exception
+-You can raise your own Exception using throw keyword
+-Create you own Exception type class by inheriting Exception class in it
+-This just created exception is of Checked Exception type
+-While raising a checked Exception system or compiler wants us to decide what should be the step once this newly created exception occurs
+-Two ways to deal the newly created exception for throwing error
+1.Either you can handle the exception
+2.Pass the exception(pass to whoever have called this function i.e mostly main class)
+-Ex- If main function calls a function divide, at divide if you get checked exception, divide will pass it to main function
+   - main will now decide what it has to do with the exception
+-throws declaration means we are passing the exception to the function which called that exception
+-Now many can also pass this exception using throws to whosoever have called it 
+-If main passes the exception to whosoever have called it, we are going to see the exception in the console
+-Main passes the exception to runtime system
+-If main doesnot want to pass the exception and wants to deal with it then
+-We have to surround the exception with try-catch block
+-Try catch block is used to handle the exception
+-Within try we will write the code that raise the exception and within catch we write code that catches the exception
+-As soon as we throws the exception nothing after that is executed, but when when handle the exception using try catch block, 
+everything is executed normally, after the raised exception
+-Any statement in try block after first exception raised will not be exceuted
+
+-Remember it - As soon as you get an exception at a line , you have to choose from two options 
+   1. Either you can pass it - if you decide pass it, you can thow it using throws keyword to whosoever have called that function
+   2. Deal with it - if you decide to deal it, you can do it, using try-catch
+
+
+Exception handling - 2
+-
+
+
+Finally Block
+-This block is always executed whether exception occurs or not
+   

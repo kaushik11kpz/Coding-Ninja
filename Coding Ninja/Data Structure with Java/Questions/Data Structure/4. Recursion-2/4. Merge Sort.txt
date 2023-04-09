@@ -1,0 +1,66 @@
+Merge Sort - Problem Statement
+
+Sort an array A using Merge Sort.
+Change in the input array itself. So no need to return or print anything.
+Input format :
+Line 1 : Integer n i.e. Array size
+Line 2 : Array elements (separated by space)
+Output format :
+Array elements in increasing order (separated by space)
+Constraints :
+1 <= n <= 10^3
+Sample Input 1 :
+6 
+2 6 8 5 4 3
+Sample Output 1 :
+2 3 4 5 6 8
+Sample Input 2 :
+5
+2 1 5 2 3
+Sample Output 2 :
+1 2 2 3 5 
+
+public class solution {
+
+	public static void mergeSort(int[] input){
+		if(input.length <= 1){
+            return;
+        }
+        int[] L = new int[input.length/2];
+        int[] R = new int[input.length - L.length];
+        
+        for(int i=0;i<input.length/2;i++){
+            L[i] = input[i];
+        }
+        for(int i=input.length/2;i<input.length;i++){
+            R[i-input.length/2] = input[i]; 
+        }   
+        mergeSort(L);
+        mergeSort(R);
+        merge(input,L,R);
+	}
+    public static void merge(int[] input, int[] L, int[] R){
+        int i=0,j=0,k=0;
+        while(i<L.length && j<R.length){
+            if(L[i] <= R[j]){
+                input[k] = L[i];
+                i++;
+            }
+            else{
+                input[k] = R[j];
+                j++;
+            }
+            k++;
+        }
+        while(i<L.length){
+            input[k] = L[i];
+            i++;
+            k++;
+        }
+        while(j<R.length){
+            input[k] = R[j];
+            j++;
+            k++;
+        }
+    }
+}

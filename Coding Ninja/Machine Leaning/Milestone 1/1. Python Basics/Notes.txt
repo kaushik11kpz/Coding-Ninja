@@ -1,0 +1,3 @@
+-Understand the math
+-Understand how to code it, if code needed
+-Understand how to use libraries to make our project work

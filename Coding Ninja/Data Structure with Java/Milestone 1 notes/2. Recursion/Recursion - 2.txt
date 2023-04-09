@@ -1,0 +1,46 @@
+Recursion with Strings
+-Remove X
+-Replace PI
+-Replace Characters Recursively
+-Replace Duplicates Recursively
+-Binary Search using Recursion
+-Merge Sort 
+  ->Call base case
+  ->Take the array
+  ->Divide it into two parts
+  ->Copy the two parts int two different array
+  ->Call sort function on both the divided array
+  ->Call merge function using both arrays as parameter
+  ->implement merge function
+-Quick Sort
+  ->Call base case
+  ->Partition the array around an element
+  ->Implement partition using start and end indexes
+  ->For implementation of partition function, take start index as pivotElement
+  ->count the number of elements which are less that pivotElement from start index to end index
+  ->use that count to place the pivotElement at appropriate position
+  ->now take i=start and j=end index
+  ->for every (i<j) check if an element is greater than pivotElemet at left side of pivotElement as well as an element is 
+    less than the pivotElement at right side of pivotElement together.
+  ->For every element which is greater than pivotElement, find an element which is smaller than 
+    pivotElement 
+  ->Swap both elment and continue the loop
+  ->return the index at which the pivotElement is place
+  ->call quickSort function on as taking returned value from partition function as start of one array and as end of another array
+-Tower of Hanoi
+  ->Think in terms of Mathematical Induction
+  ->1 disk can be move from source to destination without any help
+  ->n-1 disk can be move from source to auxiliary via destination
+  ->nth disk can be move from source to destination without any help
+  ->n-1 disk can be move from auxiliary to destination via source
+-Geometric Sum
+-Check Palindrome
+-Sum of digits
+-Multiplication
+-Count zeros
+-String to Integer
+-Pair Star
+-Check AB
+-Staircase
+  
+  
